@@ -1,0 +1,47 @@
+body{
+  font-size: small;
+  font-family:Verdana, Helvetica, Aeial;
+}
+h1,h2{
+  color: #cc6600;
+}
+h1{
+  font-size: 1.5em;
+}
+h2{
+  font-size: 1.3em;
+}
+.guarantee {
+  border: 1px dashed white;  /* 简写边框属性 */
+  background-color: #a7cece;
+  padding: 20px;            /* 添加内边距 */
+  margin: 30px;             /* 添加外边距 */
+  line-height: 1.5;         /* 改善行高 */
+  background-repeat: no-repeat;
+  background-position: top left;
+  padding: 25px;
+  padding-left: 80px;
+  background-image: url(images/background.gif);
+  margin-right: 250px;
+  border-top-right-radius: 2em ;
+  border-bottom-left-radius: 2em;
+}
+.elixirs{
+  border-width: thin;
+  border-style: solid;
+  border-color: #007e7e;
+  width: 200px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  margin-left: 20px;
+  background-image: url(images/cocktail.gif);
+  background-repeat: repeat-x;
+  text-align: center;
+}
+.cd{
+  font-style: italic;
+}
+.artist{
+  font-weight: bold;
+}

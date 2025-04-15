@@ -1,0 +1,26 @@
+p {  
+  font-size: 3rem;
+  color: maroon;
+}
+body {
+  font-family: Arial;  /* 修正拼写错误并删除重复属性 */
+}
+h1,h2{
+  font-size: 2.5rem;
+  color:gray ;
+}
+html{
+  font-size: 10px;
+}
+
+body{
+	color: royalblue;
+	color: rgb(65, 105, 225);
+	color: #4169E1CC;
+	color: rgba(39,177,182,0.8);
+  color: #2775b6CC;
+color:rgb(239,71,93)
+color(#ef475d)
+}
+
+
